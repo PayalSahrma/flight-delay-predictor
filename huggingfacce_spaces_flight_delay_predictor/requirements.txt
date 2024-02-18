@@ -1,0 +1,9 @@
+hopsworks
+joblib
+gradio
+httpx==0.24.1
+torch
+pandas
+numpy
+scikit-learn
+dataframe_image
